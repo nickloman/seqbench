@@ -1,0 +1,143 @@
+Species,Subspecies,Strain,Platform,Centre,Replicate,Planned read length (bp),Chip,Mode,Fragment/insert size,Accession,URL,Reference,Isolation Date,Country of Origin,,Clinical Details,SRA SRP number,SRA Experiment,SRA Study
+Escherichia coli,K12,MG1655,454 GS FLX,J. Craig Venter Institute,1,250,,Fragment,,SRA001028,,,,,,,,,
+Escherichia coli,K12,MG1655,454 GS FLX,J. Craig Venter Institute,1,250,,Mate-pair,3500,SRA001028,,,,,,,,,
+Escherichia coli,K12,MG1655,"Illumina GAII, HiSeq2000, MiSeq, PacBio",Broad Institute,1,,,Paired end,,SRP001087 (111 entries),,,,,,,,,
+Escherichia coli,K12,MG1655,Ion Torrent PGM,Broad Institute,1,,316,Fragment,?,SRR515925,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR515/SRR515925/SRR515925.fastq.gz,,,,,,,,
+Escherichia coli,K12,MG1655,Ion Torrent PGM,Broad Institute,2,,316,,,SRR515926,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR515/SRR515926/SRR515926.fastq.gz,,,,,,,,
+Escherichia coli,K12,MG1655,Ion Torrent PGM,Broad Institute,3,,316,,,SRR515927,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR515/SRR515927/SRR515927.fastq.gz,,,,,,,,
+Escherichia coli,K12,MG1655,Illumina HiSeq 2000,Broad Institute,1,2x100,,Paired end,180,"Broad ftp, data for ALLPATHS_LG paper",ftp://ftp.broadinstitute.org/pub/papers/assembly/Ribeiro2012/data/,,,,,,,,
+Escherichia coli,K12,MG1655,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,"Broad ftp, data for ALLPATHS_LG paper",,,,,,,,,
+Escherichia coli,K12,MG1655,Illumina MiSeq,"Illumina, UK",1,2x151,,,,Illumina site,"ftp://webdata:webdata@ussd-ftp.illumina.com/Data/SequencingRuns/MG1655/MiSeq_Ecoli_MG1655_110721_PF_R1.fastq.gz,ftp://webdata:webdata@ussd-ftp.illumina.com/Data/SequencingRuns/MG1655/MiSeq_Ecoli_MG1655_110721_PF_R2.fastq.gz",http://www.illumina.com/systems/miseq/scientific_data.ilmn,,,,,,,
+Escherichia coli,K12,MG1655,Ion Torrent,Broad Institute,1,"100, 200",?,Fragment,,r,,,,,,,,,
+Escherichia coli,K12,MG1655,Ion Torrent,Life Technologies,1,100,314,Fragment,,Ion Community,http://ioncommunity.lifetechnologies.com/docs/DOC-2492,,,,,,,,
+Escherichia coli,K12,MG1655,Ion Torrent,Life Technologies,1,200,316,Fragment,,Ion Community,http://ioncommunity.lifetechnologies.com/docs/DOC-2265,,,,,,,,
+Escherichia coli,K12,MG1655,Ion Torrent,Life Technologies,1,200,316,Paired end,3500,Ion Community,http://ioncommunity.lifetechnologies.com/docs/DOC-2265,,,,,,,,
+Escherichia coli,K12,MG1655,Ion Torrent,Life Technologies,1,200,316,Paired end,8900,Ion Community,http://ioncommunity.lifetechnologies.com/docs/DOC-2265,,,,,,,,
+Escherichia coli,K12,MG1655,PacBio RS,Broad Institute,1,,C1,CLR,,SRP001087 (85 entries),,,,,,,,,
+Escherichia coli,K12,MG1655,PacBio RS,Pacific Biosciences,1,,C2,CLR (90 minute movie),,PacBio devnet,http://www.smrtcommunity.com/Share/Datasets/E-coli-K12-Resequencing,,,,,,,,
+Escherichia coli,K12,MG1655,PacBio RS,Pacific Biosciences,1,,C2,CLR (90 minute movie) + CCS,10kb + 2kb,PacBio devnet,http://www.smrtcommunity.com/Share/Datasets/E-coli-K12-De-Novo,,,,,,,,
+Escherichia coli,K12,MG1655,PacBio RS,Broad Institute,1,,C2,CLR,3kb,"Broad ftp, data for ALLPATHS_LG paper",ftp://ftp.broadinstitute.org/pub/papers/assembly/Ribeiro2012/data/,,,,,,,,
+Escherichia coli,O104:H4,GOS1,454 GS FLX,University of Gottingen,1,Titanium,PTP,Fragment,,,"ftp://EAHEC_GOS:EAHEC_GOS@134.76.70.119/GOS1.sff
+",http://www.ncbi.nlm.nih.gov/pubmed/21713444,,,,,,,
+Escherichia coli,O104:H4,GOS2,454 GS FLX,University of Gottingen,1,Titanium,PTP,Fragment,,,ftp://EAHEC_GOS:EAHEC_GOS@134.76.70.119/GOS1.sff,http://www.ncbi.nlm.nih.gov/pubmed/21713444,,,,,,,
+Escherichia coli,O104:H4,280,454 GS Junior,Health Protection Agency,1,Titanium,PTP,Fragment,,,http://www.ncbi.nlm.nih.gov/pubmed/22522955,,,,,,,,
+Escherichia coli,O104:H4,280,454 GS Junior,Health Protection Agency,2,Titanium,PTP,Fragment,,,http://www.ncbi.nlm.nih.gov/pubmed/22522955,,,,,,,,
+Escherichia coli,O104:H4,TY2482,Illumina HiSeq 2000,BGI,1,100bp,,Paired end,470,SRR292678,"ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR292/SRR292678/SRR292678_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR292/SRR292678/SRR292678_2.fastq.gz",http://www.nejm.org/doi/full/10.1056/NEJMoa1107643,,Germany,,,,,
+Escherichia coli,O104:H4,TY2482,Illumina HiSeq 2000,BGI,1,100bp,,Mate-pair,2000,SRR292862,http://www.nejm.org/doi/full/10.1056/NEJMoa1107643,http://www.nejm.org/doi/full/10.1056/NEJMoa1107643,,Germany,,,,,
+Escherichia coli,O104:H4,TY2482,Illumina HiSeq 2000,BGI,1,100bp,,Mate-pair,6000,SRR292770,http://www.nejm.org/doi/full/10.1056/NEJMoa1107643,http://www.nejm.org/doi/full/10.1056/NEJMoa1107643,,Germany,,,,,
+Escherichia coli,O104:H4,C227-11_Tube_2_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,,,SRR341579,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341579/SRR341579.sra,http://www.pnas.org/content/109/8/3065.short,,Denmark,,,SRP000285,SRX095660,SRS259611
+Escherichia coli,O104:H4,C227-11_Tube_2_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,,,SRR541580,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341580/SRR341580.sra,http://www.pnas.org/content/109/8/3065.short,,Denmark,,,,SRX095661,SRS259611
+Escherichia coli,O104:H4,C236-11_Tube_2_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,,,SRR341548,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341548/SRR341548.sra,http://www.pnas.org/content/109/8/3065.short,,Denmark,,,SRP008003,SRX095629,SRS259595
+Escherichia coli,O104:H4,C236-11_Tube_2_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,,,SRR341549,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341549/SRR341549.sra,http://www.pnas.org/content/109/8/3065.short,,Denmark,,,SRP008003,SRX095630,SRS259595
+Escherichia coli,O104:H4,Ec04-8351_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341550,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341550/SRR341550.sra,http://www.pnas.org/content/109/8/3065.short,,Germany,,,SRP008032,SRX095631,SRS259596
+Escherichia coli,O104:H4,Ec04-8351_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341551,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341551/SRR341551.sra,http://www.pnas.org/content/109/8/3065.short,,Germany,,,SRP008032,SRX095632,SRS259596
+Escherichia coli,O104:H4,Ec09-7901_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341552,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341552/SRR341552.sra,http://www.pnas.org/content/109/8/3065.short,,Germany,,,SRP008033,SRX095633,SRS259597
+Escherichia coli,O104:H4,Ec09-7901_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341553,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341553/SRR341553.sra,http://www.pnas.org/content/109/8/3065.short,,Germany,,,SRP008033,SRX095634,SRS259597
+Escherichia coli,O104:H4,Ec11-3677_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341554,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341554/SRR341554.sra,http://www.pnas.org/content/109/8/3065.short,,France,,,SRP008034,SRX095636,SRS259598
+Escherichia coli,O104:H4,Ec11-3677_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341555,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341555/SRR341555.sra,http://www.pnas.org/content/109/8/3065.short,,France,,,SRP008034,SRX095637,SRS259598
+Escherichia coli,O104:H4,Ec11-3798_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341556,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341556/SRR341556.sra,http://www.pnas.org/content/109/8/3065.short,,France,,,SRP008035,SRX095635,SRS259599
+Escherichia coli,O104:H4,Ec11-4404_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341557,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341557/SRR341557.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008036,SRX095638,SRS259600
+Escherichia coli,O104:H4,Ec11-4404_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341558,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341558/SRR341558.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008036,SRX095639,SRS259600
+Escherichia coli,O104:H4,Ec11-4522_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341559,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341559/SRR341559.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008037,SRX095640,SRS259601
+Escherichia coli,O104:H4,Ec11-4522_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341560,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341560/SRR341560.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008037,SRX095641,SRS259601
+Escherichia coli,O104:H4,Ec11-4623_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341561,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341561/SRR341561.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008038,SRX095642,SRS259602
+Escherichia coli,O104:H4,Ec11-4623_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341562,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341562/SRR341562.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008038,SRX095643,SRS259602
+Escherichia coli,O104:H4,Ec11-4632_C1_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341563,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341563/SRR341563.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008039,SRX095644,SRS259603
+Escherichia coli,O104:H4,Ec11-4632_C1_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341564,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341564/SRR341564.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008039,SRX095645,SRS259603
+Escherichia coli,O104:H4,Ec11-4632_C2_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341565,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341565/SRR341565.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008040,SRX095646,SRS259604
+Escherichia coli,O104:H4,Ec11-4632_C2_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341566,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341566/SRR341566.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008040,SRX095647,SRS259604
+Escherichia coli,O104:H4,Ec11-4632_C3_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341567,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341567/SRR341567.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008041,SRX095648,SRS259605
+Escherichia coli,O104:H4,Ec11-4632_C3_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341568,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341568/SRR341568.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008041,SRX095649,SRS259605
+Escherichia coli,O104:H4,Ec11-4632_C4_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341569,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341569/SRR341569.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008042,SRX095650,SRS259606
+Escherichia coli,O104:H4,Ec11-4632_C4_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341570,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341570/SRR341570.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008042,SRX095651,SRS259606
+Escherichia coli,O104:H4,Ec11-4632_C5_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341571,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341571/SRR341571.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008044,SRX095652,SRS259607
+Escherichia coli,O104:H4,Ec11-4632_C5_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341572,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341572/SRR341572.sra,http://www.pnas.org/content/109/8/3065.short,,,,HUS,SRP008044,SRX095653,SRS259607
+Escherichia coli,O104:H4,Ec11-5536_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341573,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341573/SRR341573.sra,http://www.pnas.org/content/109/8/3065.short,,,,,SRP008043,SRX095654,SRS259608
+Escherichia coli,O104:H4,Ec11-5536_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341574,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341574/SRR341574.sra,http://www.pnas.org/content/109/8/3065.short,,,,,SRP008043,SRX095655,SRS259608
+Escherichia coli,O104:H4,Ec11-5537_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341575,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341575/SRR341575.sra,http://www.pnas.org/content/109/8/3065.short,,,,,SRP008045,SRX095656,SRS259609
+Escherichia coli,O104:H4,Ec11-5537_A,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341576,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341576/SRR341576.sra,http://www.pnas.org/content/109/8/3065.short,,,,,SRP008045,SRX095657,SRS259609
+Escherichia coli,O104:H4,Ec11-5538,Illumina HiSeq 2000,Broad Institute,1,2x100,,Fragment,180,SRR341577,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341577/SRR341577.sra,http://www.pnas.org/content/109/8/3065.short,,,,,SRP008046,SRX095658,SRS259610
+Escherichia coli,O104:H4,Ec11-5538,Illumina HiSeq 2000,Broad Institute,1,2x100,,Mate-pair,3000,SRR341578,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR341/SRR341578/SRR341578.sra,http://www.pnas.org/content/109/8/3065.short,,,,,SRP008046,SRX095659,SRS259610
+Escherichia coli,O104:H4,280,Ion Torrent,University of Birmingham,1,100bp,316,Fragment,100,SRR389193,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR389/SRR389193/SRR389193.fastq.gz,http://www.ncbi.nlm.nih.gov/pubmed/22522955,,,,,,,
+Escherichia coli,O104:H4,280,Ion Torrent,University of Birmingham,1,100bp,316,Fragment,100,SRR389194,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR389/SRR389194/SRR389194.fastq.gz,http://www.ncbi.nlm.nih.gov/pubmed/22522955,,,,,,,
+Escherichia coli,O104:H4,LB226692,Ion Torrent,Life Technologies,1,100,314,Fragment,,SRR254209,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/SRR254209/SRR254209.fastq.gz,http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0022751,,,,,,,
+Escherichia coli,O104:H4,LB226692,Ion Torrent,Life Technologies,1,250,318,Fragment,,Ion Community,https://s3.amazonaws.com/iontorrent/datasets/BEA-638/BEA-638.fastq.gz,http://ioncommunity.lifetechnologies.com/docs/DOC-2921,,,,,,,
+Escherichia coli,O104:H4,LB226692,Ion Torrent,Life Technologies,1,300,318,Fragment,,Ion Community,https://s3.amazonaws.com/iontorrent/datasets/B7-143/B7-143.fastq.gz,http://ioncommunity.lifetechnologies.com/docs/DOC-2922,,,,,,,
+Escherichia coli,O104:H4,TY2482,Ion Torrent,BGI,1,100bp,314,Fragment,,,,http://www.ncbi.nlm.nih.gov/pubmed/21793736,,,,,,,
+Escherichia coli,O104:H4,TY2482,Ion Torrent,BGI,2,100bp,314,Fragment,,,,http://www.ncbi.nlm.nih.gov/pubmed/21793736,,,,,,,
+Escherichia coli,O104:H4,TY2482,Ion Torrent,BGI,3,100bp,314,Fragment,,,,http://www.ncbi.nlm.nih.gov/pubmed/21793736,,,,,,,
+Escherichia coli,O104:H4,TY2482,Ion Torrent,BGI,4,100bp,314,Fragment,,,,http://www.ncbi.nlm.nih.gov/pubmed/21793736,,,,,,,
+Escherichia coli,O104:H4,TY2482,Ion Torrent,BGI,5,100bp,314,Fragment,,,,http://www.ncbi.nlm.nih.gov/pubmed/21793736,,,,,,,
+Escherichia coli,O104:H4,280,Illumina MiSeq,Illumina UK,1,150bp,MiSeq Flowcell v1,Paired end,,,,http://www.ncbi.nlm.nih.gov/pubmed/22522955,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",1,,,,,SRR305934,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,,Denmark,138.3M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",1,15000,,CCS,700,SRR305934,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,138.3M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",2,15000,,CCS,,SRR305935,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,139.4M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",3,15000,,CCS,,SRR305936,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,151.5M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",4,15000,,CCS,,SRR305937,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,131.6M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",5,15000,,CCS,,SRR305938,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,248.6M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",6,15000,,CCS,,SRR305939,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,247.8M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",7,15000,,CCS,,SRR305940,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,172.5M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",8,15000,,CCS,,SRR305941,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,313.9M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",9,15000,,CCS,,SRR305942,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,292.2M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",10,15000,,CCS,,SRR305943,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,305.6M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",11,15000,,CCS,,SRR305944,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,303.9M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",12,15000,,CCS,,SRR305945,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,298.4M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",13,15000,,CCS,,SRR305946,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,127.6M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",14,15000,,CCS,,SRR305947,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,119.5M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",15,15000,,CCS,,SRR305948,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,162.1M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",16,15000,,CCS,,SRR305949,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,168.8M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",17,15000,,CCS,,SRR305950,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,129M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",18,15000,,CCS,,SRR305951,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,118.9M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",19,15000,,CCS,,SRR305952,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,127.9M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",20,15000,,CCS,,SRR305953,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,188.4M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",21,15000,,CCS,,SRR305954,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,128.2M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",22,15000,,CCS,,SRR305955,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,144M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",23,15000,,CCS,,SRR305956,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,170.7M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",24,15000,,CCS,,SRR305957,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,176.3M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",25,15000,,CCS,,SRR305958,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,171.3M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",26,15000,,CCS,,SRR305959,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,170.2M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",27,15000,,CCS,,SRR305960,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,178.7M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",28,15000,,CCS,,SRR305961,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,168.8M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",29,15000,,CCS,,SRR305962,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,169.6M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",30,15000,,CCS,,SRR305963,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,180.4M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",31,15000,,CCS,,SRR305964,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,177.1M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",32,15000,,CCS,,SRR305965,,http://www.nejm.org/doi/full/10.1056/NEJMoa1106920,5/18/2011,Denmark,180.3M,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",1,8000,,CLR,8000,SRR279910,58.4M,253.4Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",2,8000,,CLR,8000,SRR279911,58.2M,253.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",3,8000,,CLR,8000,SRR279912,158.8M,624.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",4,8000,,CLR,8000,SRR279913,175.5M,695.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",5,8000,,CLR,8000,SRR279914,176.5M,694.5Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",6,8000,,CLR,8000,SRR279915,175.9M,706.9Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",7,8000,,CLR,8000,SRR279916,231.5M,895.3Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",8,8000,,CLR,8000,SRR279917,217.8M,836.4Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",9,8000,,CLR,8000,SRR279918,181.6M,715.5Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",10,8000,,CLR,8000,SRR279919,179.1M,701.5Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",11,8000,,CLR,8000,SRR279920,257.6M,992.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",12,8000,,CLR,8000,SRR279921,200.4M,778.4Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",13,8000,,CLR,8000,SRR279922,201.6M,780.7Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",14,8000,,CLR,8000,SRR279923,228.9M,874.9Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",15,8000,,CLR,8000,SRR279924,182.3M,717.9Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",16,8000,,CLR,8000,SRR305910,147.1M,593.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",17,8000,,CLR,8000,SRR305911,170.9M,694Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",18,8000,,CLR,8000,SRR305912,136.9M,546.5Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",19,8000,,CLR,8000,SRR305913,69.4M,293.5Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",20,8000,,CLR,8000,SRR305914,178.4M,725.1Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",21,8000,,CLR,8000,SRR305915,135.9M,549.7Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",22,8000,,CLR,8000,SRR305916,161.7M,648Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",23,8000,,CLR,8000,SRR305917,176.9M,711.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",24,8000,,CLR,8000,SRR305918,170.2M,685.2Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",25,8000,,CLR,8000,SRR305919,56M,255Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",26,8000,,CLR,8000,SRR305920,152.7M,617Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",27,8000,,CLR,8000,SRR305921,57.5M,261.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",28,8000,,CLR,8000,SRR305922,157.3M,630.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",29,8000,,CLR,8000,SRR305923,151M,608.2Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",30,8000,,CLR,8000,SRR305924,194M,780.6Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",31,8000,,CLR,8000,SRR305925,153.5M,621.4Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",32,8000,,CLR,8000,SRR305926,124M,508.7Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",33,8000,,CLR,8000,SRR305927,94.5M,399Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",34,8000,,CLR,8000,SRR305928,142.9M,575.7Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",35,8000,,CLR,8000,SRR305929,103.1M,430.5Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",36,8000,,CLR,8000,SRR305930,133.8M,544.2Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",37,8000,,CLR,8000,SRR305931,127.6M,525.2Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",38,8000,,CLR,8000,SRR305932,136.7M,552.2Mb,,,,,,,
+Escherichia coli,O104:H4,C227-11,PacBio,"Pacific Biosciences, US",39,8000,,CLR,8000,SRR305933,126.2M,525.3Mb,,,,,,,

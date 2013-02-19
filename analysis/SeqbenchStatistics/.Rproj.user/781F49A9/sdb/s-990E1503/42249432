@@ -1,0 +1,16 @@
+{
+    "contents" : "library(ggplot2)\nlibrary(RSQLite)\n\ndrv<-dbDriver(\"SQLite\")\ncon<-dbConnect(drv, dbname=\"/Users/nick/work/seqbench/reads/seqbench.sqlite3\")\ndbListTables(con)\nsql<-paste(\"SELECT Platform  FROM runs\")\nruns<-dbGetQuery(con, sql)\np<-ggplot(runs, aes(x=reorder(Platform, Platform, function(x)-length(x)))) + geom_bar() + theme_bw() + scale_x_discrete(\"Platform\") + scale_y_continuous(\"Number of runs\")\nggsave(\"numberofruns.pdf\", p)\n>?# Escherichia coli|K12|MG1655|Illumina GAII, HiSeq2000, MiSeq, PacBio|Broad Institute|1|||Paired end||SRP001087 (111 entries)|||||||||\n",
+    "created" : 1361224038175.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2638351198",
+    "id" : "42249432",
+    "lastKnownWriteTime" : 4294967296,
+    "path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
